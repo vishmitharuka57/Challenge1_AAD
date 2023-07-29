@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Challenge 1 AAD:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Challenge 1 AAD</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Challenge1-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Challenge 1 AAD:war exploded" />
+    </root>
+  </artifact>
+</component>
